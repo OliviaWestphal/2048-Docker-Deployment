@@ -1,3 +1,5 @@
+# Olivia Westphal 2048 Game
+
 FROM ubuntu:22.04
 
 RUN apt-get update
